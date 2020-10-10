@@ -1,7 +1,7 @@
 <template>
   <div class="app-content">
   <mt-header fixed title="黑马购物"></mt-header>
-    <h1>这是 App 组件</h1>
+    <h1>这是组件</h1>
 
 
 
